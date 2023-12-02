@@ -1,0 +1,11 @@
+/* Inside "Card.css" */
+.custom-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    border-radius: 12px; /* Add rounded corners */
+    transition: box-shadow 0.3s ease; /* Add a transition for a smooth effect */
+  }
+  
+  .custom-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Change the shadow on hover */
+  }
+  
